@@ -3,6 +3,6 @@
 
 👨‍💻 All of my projects are available at https://github.com/ALANKRITAGARWAL-Developer?tab=repositories
 
-📫 Reach me at officialharpreetsingh004+github@gmail.com
+📫 Reach me at alankritagarwal8@gmail.com
 
 ⚡ Fun fact When I code, I forgot everything time, hunger, etc
