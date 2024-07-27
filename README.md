@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALANKRIT AGARWAL</h1>
 <h3 align="center">A passionate Frontend-Developer from India</h3>
 
-- 🌱 I’m currently learning **DSA in Java and Back-end**
+- 🌱 I’m currently learning **DSA in Java and Back-end Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/alankritagarwal989](https://linktr.ee/alankritagarwal989)
 
