@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA in Java and Back-end Development**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/alankritagarwal989](https://linktr.ee/alankritagarwal989)
+- 👨‍💻 All of my projects are available at [Alankrit's LinkTree](https://linktr.ee/alankritagarwal989)
 
 - 📫 How to reach me **alankritagarwal8@gmail.com**
 
@@ -35,7 +35,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alankrit98" alt="alankrit98" /></p>
 
 <details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+ <summary><b>GSSoC'24 Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
