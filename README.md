@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alankrit98&show_icons=true&locale=en" alt="alankrit98" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alankrit98" alt="GitHub Streak" /></a></p>
+<p>![alankrit98's Streak]<a href="https://github-readme-streak-stats.herokuapp.com/?user=alankrit98&theme=vue-dark&hide_border=true" alt="github-streak"/></a></p>
 
 <details>	
  <summary><b>GSSoC'24 Badges</b></summary><br>
