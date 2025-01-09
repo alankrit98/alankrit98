@@ -32,11 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alankrit98&show_icons=true&locale=en" alt="alankrit98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankrit98&theme=vue-dark&hide_border=true" alt="github-streak"/></img></p>
-
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankrit98&theme=vue-dark&hide_border=true" alt="github-streak"/></img></p>        
 
 <details>	
  <summary><b>GSSoC'24 Badges</b></summary><br>
