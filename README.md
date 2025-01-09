@@ -34,6 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankrit98&theme=vue-dark&hide_border=true" alt="github-streak"/></img></p>
 
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
+
 <details>	
  <summary><b>GSSoC'24 Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
