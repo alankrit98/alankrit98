@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA in Java and Back-end Development**
 
-- 👨‍💻 All of my projects are available at [Alankrit's LinkTree](https://linktr.ee/alankritagarwal989)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/alankritagarwal989](https://linktr.ee/alankritagarwal989)
 
 - 📫 How to reach me **alankritagarwal8@gmail.com**
 
@@ -32,7 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alankrit98&show_icons=true&locale=en" alt="alankrit98" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alankrit98&theme=dark)](https://git.io/streak-stats)       
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankrit98&" alt="alankrit98" /></p>
+      
 
 <details>	
  <summary><b>GSSoC'24 Badges</b></summary><br>
