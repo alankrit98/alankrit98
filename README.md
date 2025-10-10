@@ -35,6 +35,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankrit98&" alt="alankrit98" /></p>
       
 
+[![An image of @alankrit98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alankrit98)](https://holopin.io/@alankrit98)
+
+
 <details>	
  <summary><b>GSSoC'24 Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
