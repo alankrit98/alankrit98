@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alankrit98&show_icons=true&locale=en" alt="alankrit98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alankrit98&" alt="alankrit98" /></p>
-      
+
 
 [![An image of @alankrit98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alankrit98)](https://holopin.io/@alankrit98)
 
