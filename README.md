@@ -17,12 +17,11 @@
 - 📫 Reach me at: **alankritagarwal8@gmail.com**
 
 ## 🚀 Featured Projects
-*(Note: Ensure these URLs match your exact repository names)*
 
-*   [**CareerForge**](https://github.com/alankrit98/CareerForge): An AI-powered resume builder and ATS simulator.
-*   [**AlgoSpace**](https://github.com/alankrit98/AlgoSpace): An interactive CS library for visualizing algorithms.
-*   [**Git-Gotchi**](https://github.com/alankrit98/Git-Gotchi): A MERN-stack app that gamifies your GitHub contribution graph.
-*   [**Rabbit Hole**](https://github.com/alankrit98/Rabbit-Hole): An AI concept visualizer utilizing React Flow.
+*   [**SmartPaper**](https://github.com/alankrit98/SmartPaper): Bridges manual banks & AI pedagogy using MERN, Bloom’s Taxonomy, and NLP-based paraphrasing.
+*   [**DevSquad**](https://github.com/alankrit98/DevSquad): A comprehensive developer collaboration platform that bridges the gap in team formation and project execution.
+*   [**StudySync**](https://github.com/alankrit98/StudySync): An intelligent LMS that uses the MERN stack and Gemini AI to instantly generate personalized courses.
+*   [**Neuronix.AI**](https://github.com/alankrit98/Neuronix.AI): An AI SaaS platform that empowers users to create, enhance, and transform digital content with ease.
 
 ## 🛠️ Languages & Tools
 
@@ -76,3 +75,5 @@
 ## Badges & Achievements
 
 [![An image of @alankrit98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alankrit98)](https://holopin.io/@alankrit98)
+
+
