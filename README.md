@@ -75,7 +75,7 @@
 <!-- Badges & Achievements -->
 <details>
   <summary><b>Badges & Achievements</b></summary><br>
-  [![Holopin badges](https://holopin.me/alankrit98)](https://holopin.io/@alankrit98)
+  [![An image of @alankrit98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alankrit98)](https://holopin.io/@alankrit98)
   <div style='display:flex; align-items:center; gap: 10px;' align='center'>
     <a href="https://gssoc.girlscript.tech/leaderboard">
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
