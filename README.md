@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alankrit Agarwal</h1>
 <h3 align="center">Full-Stack Developer | AI & Cloud Enthusiast</h3>
 
+
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alankrit98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+
+
+
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=alankrit98">
@@ -60,8 +67,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alankrit98&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+
+
+
+  
   <img src="https://github-readme-stats.vercel.app/api?username=alankrit98&show_icons=true&locale=en" alt="GitHub Stats" />
+
+
+
+
+  
 </p>
+
+
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alankrit98" alt="GitHub Streak" />
 </p>
